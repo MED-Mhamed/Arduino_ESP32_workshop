@@ -1,0 +1,2 @@
+# Arduino_ESP32_workshop
+ Welcome to the Arduino & ESP32 Workshop repository! This repository contains a comprehensive collection of tutorials, code examples, and projects designed to help you learn and master the basics of Arduino and ESP32 microcontrollers. Whether you're a beginner or an intermediate user, this workshop will guide you through hands-on projects and concepts to build your knowledge in electronics, programming, and IoT development.
